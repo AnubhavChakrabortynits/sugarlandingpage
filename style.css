@@ -17,7 +17,8 @@ align-items: center;
 .header h1{
     font-size: 5rem;
     font-weight: 900;
-    color:rgb(79, 34, 4)
+    color:rgb(79, 34, 4);
+    font-family:  "Sofia", sans-serif;;
 }
 
 .header h7{
@@ -45,4 +46,13 @@ margin-top: 2rem;
     margin: 0 !important;
   
     
+}
+
+
+
+
+button:hover{
+ background-color: rgb(210, 173, 38);
+    color:white;
+  
 }
